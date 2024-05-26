@@ -31,7 +31,7 @@ const Contact = () => {
         </motion.p>
 
        
-        <a href={`mailto:${CONTACT.email}`} className="text-purple-700">
+        <a href={`mailto:${CONTACT.email}`} className="text-yellow-500">
           {CONTACT.email}
         </a>
 

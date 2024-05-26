@@ -47,6 +47,7 @@ export const PROJECTS = [
     description:
       "Une plateforme de streaming complète avec fonctionnalités de chat en direct, gestion des bannissements, intégration OBS Studio, système d'authentification et d'abonnement pour les créateurs.",
     technologies: ["Next.js", "Clerk", "Tailwindcss", "Prisma", "LiveKit"],
+    link:"https://www.figma.com/design/ljKYsBcZkVq5d9ZgRnBxfi/SABA?t=fsfXnygoCmxDEWtf-0",
   },
   {
     title: "MindWeave",
@@ -54,6 +55,7 @@ export const PROJECTS = [
     description:
       "Une application collaborative permettant l'édition de documents, la création de diagrammes, le partage et le travail d'équipe en temps réel, avec système d'authentification des utilisateurs.",
     technologies: ["Next.js", "Kinde", "Convex", "Moment.js", "Editor.js", "Excalidraw"],
+    link:"https://www.figma.com/design/OFFSRAuTNz4JUKjMPBg56y/MINDWEAVE?t=zkNSltojCabHhCx9-0",
   },
   {
     title: "NVSBL Preview",
@@ -61,6 +63,7 @@ export const PROJECTS = [
     description:
       "Un site web vitrine mettant en avant la solution Smart Business Cards, avec présentation détaillée du concept, des fonctionnalités et démonstration.",
     technologies: ["Three.js", "GSAP", "ASScroll", "Vite"],
+    link:"https://github.com/Permouda/nvsbl-demo",
   },
   {
     title: "NVSBL",
@@ -68,6 +71,7 @@ export const PROJECTS = [
     description:
       "Une solution innovante permettant la création de cartes de visite numériques avec intégration de profils sur des cartes NFC et gestion des liens personnalisés.",
     technologies: ["Next.js", "Tailwindcss", "Nodejs", "Mongoose", "Expressjs","JWT"],
+    link:"https://www.figma.com/design/giO9SyD8yzwER3qqU3TL2V/NVSBL-Connect?t=FIwbz8M0AgOU5WbH-0",
   },
   {
     title: "E-foot",
@@ -75,6 +79,7 @@ export const PROJECTS = [
     description:
       "Une plateforme entièrement fonctionnelle pour la gestion de tournois de gaming, avec des fonctionnalités telles que la gestion des équipes, des joueurs, un système de bracketage, le suivi des scores et des résultats.",
     technologies: ["Vuejs", "Typescript", "Bootstrap"],
+    link:"https://www.figma.com/design/LlQ9fEWNKS3jZba3vLmBYG/Tournament-Screenshoots?t=Ax63fQ23CFAorEPH-0",
   },
 ];
 
