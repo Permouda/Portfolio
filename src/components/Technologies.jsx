@@ -6,6 +6,7 @@ import { FaNodeJs } from "react-icons/fa";
 import { BiLogoPostgresql } from "react-icons/bi";
 import { DiPhotoshop } from "react-icons/di";
 import { BiLogoTailwindCss } from "react-icons/bi";
+import { DiIllustrator } from "react-icons/di";
 
 import { motion } from "framer-motion";
 
@@ -86,6 +87,15 @@ const Technologies = () => {
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
           <DiPhotoshop className="text-7xl text-sky-700" />
+        </motion.div>
+
+        <motion.div
+          variants={iconVariants(6)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <DiIllustrator  className="text-7xl text-orange-500" />
         </motion.div>
       </motion.div>
     </div>
