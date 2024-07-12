@@ -42,12 +42,12 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "SABA | Working On",
+    title: "SABA",
     image: project5,
     description:
       "Une plateforme de streaming complète avec fonctionnalités de chat en direct, gestion des bannissements, intégration OBS Studio, système d'authentification et d'abonnement pour les créateurs.",
     technologies: ["Next.js", "Clerk", "Tailwindcss", "Prisma", "LiveKit"],
-    link:"https://www.figma.com/design/ljKYsBcZkVq5d9ZgRnBxfi/SABA?t=fsfXnygoCmxDEWtf-0",
+    link:"https://saba-seven.vercel.app/",
   },
   {
     title: "MindWeave",
